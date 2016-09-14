@@ -47,23 +47,23 @@ li {
 
 a {
   text-decoration: underline;
-  color: #1488ca;
+  color: #00f;
 }
 
 a:hover,
 a:focus {
-  background-color: #1488ca;
+  background-color: #00f;
   color: #fff;
   text-decoration: none;
 }
 
 a:visited {
-  color: #7a2cc9;
+  color: #8000ff;
 }
 
 a:visited:hover,
 a:visited:focus {
-  background-color: #7a2cc9;
+  background-color: #8000ff;
   color: #fff;
 }
 
